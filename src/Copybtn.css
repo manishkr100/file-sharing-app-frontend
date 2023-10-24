@@ -1,0 +1,10 @@
+img{
+    width: 20px;
+    background-color:transparent;
+}
+
+.copy-btn{
+    margin-left: 15px;
+    cursor: pointer;
+    border:none;
+  }
